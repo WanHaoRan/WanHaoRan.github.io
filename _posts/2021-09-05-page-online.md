@@ -2,7 +2,6 @@
 layout: post
 title:  "Page Online"
 author: "Haoran Wan"
-comments: true
 tags: Tale
 excerpt_separator: <!--more-->
 sticky: true
