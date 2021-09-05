@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "About"
+layout: about
+# title: "About"
 # author: "Haoran Wan"
 permalink: /
 ---
