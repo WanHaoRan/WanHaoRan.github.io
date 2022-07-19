@@ -5,6 +5,6 @@ author: "Haoran Wan"
 tags: Tale
 excerpt_separator: <!--more-->
 sticky: true
-hidden: false
+hidden: true
 ---
 I am happy to update that one of our paper was accepted by Ubicomp/IMWUT, and another paper was accepted by WASA 2022.
